@@ -103,4 +103,8 @@ p {
 	#picture2 {
 		margin-top: 15%;
 	}
+
+	.topbox li {
+		font-size: .875em;
+	}
 }
